@@ -1,6 +1,6 @@
 
 # 📷 Diffusion Model for Image Enhancement
-![image alt]()
+![image alt](https://github.com/SyedAliNice/Image-Enhancement-with-Diffusion-model/blob/546743f8c9594386d19c03fda2166a519a7b69fb/a-digital-illustration-of-a-computer-scr_5eMGvoX_SwCxulc5Bka_6Q_7BKoiUNJRmqfpGjZHhlSAA-fotor-20250328152032.jpg)
 
 A brief description of what this project does and who it's for
 
